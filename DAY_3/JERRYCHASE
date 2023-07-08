@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+    int n,i,j;
+    scanf("%d",&n);
+    while(n--){
+    scanf("%d""%d",&i,&j);
+    if(j>i)
+    printf("YES\n");
+    else
+    printf("NO\n");}
+	return 0;
+}
+
